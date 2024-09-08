@@ -1,0 +1,4 @@
+pyspark
+matplotlib
+seaborn
+influxdb_client

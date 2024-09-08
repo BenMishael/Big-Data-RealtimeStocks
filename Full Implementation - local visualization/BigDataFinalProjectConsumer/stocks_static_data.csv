@@ -1,0 +1,54 @@
+ticker,company_name,shares_outstanding,exchange,sector,industry,country
+AAPL,Apple Inc.,15204100096,NMS,Technology,Consumer Electronics,United States
+MSFT,Microsoft Corporation,7433039872,NMS,Technology,Software - Infrastructure,United States
+GOOGL,Alphabet Inc.,5858999808,NMS,Communication Services,Internet Content & Information,United States
+AMZN,"Amazon.com, Inc.",10495599616,NMS,Consumer Cyclical,Internet Retail,United States
+TSLA,"Tesla, Inc.",3194639872,NMS,Consumer Cyclical,Auto Manufacturers,United States
+NVDA,NVIDIA Corporation,24598300672,NMS,Technology,Semiconductors,United States
+JPM,JPMorgan Chase & Co.,2845159936,NYQ,Financial Services,Banks - Diversified,United States
+V,Visa Inc.,1670439936,NYQ,Financial Services,Credit Services,United States
+JNJ,Johnson & Johnson,2407239936,NYQ,Healthcare,Drug Manufacturers - General,United States
+WMT,Walmart Inc.,8043539968,NYQ,Consumer Defensive,Discount Stores,United States
+BABA,Alibaba Group Holding Limited,2376009984,NYQ,Consumer Cyclical,Internet Retail,China
+TCEHY,Tencent Holdings Limited,9229190144,PNK,Communication Services,Internet Content & Information,China
+PDD,PDD Holdings Inc.,1388770048,NMS,Consumer Cyclical,Internet Retail,Ireland
+BIDU,"Baidu, Inc.",285055008,NMS,Communication Services,Internet Content & Information,China
+NIO,NIO Inc.,2087170048,NYQ,Consumer Cyclical,Auto Manufacturers,China
+005930.KS,"Samsung Electronics Co., Ltd.",5969780224,KSC,Technology,Consumer Electronics,South Korea
+000660.KS,SK hynix Inc.,688617984,KSC,Technology,Semiconductors,South Korea
+035420.KS,NAVER Corporation,151243008,KSC,Communication Services,Internet Content & Information,South Korea
+TTE,TotalEnergies SE,2296829952,NYQ,Energy,Oil & Gas Integrated,France
+LVMUY,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",2497469952,PNK,Consumer Cyclical,Luxury Goods,France
+OR.PA,L'Oréal S.A.,534956000,PAR,Consumer Defensive,Household & Personal Products,France
+SAN.PA,Sanofi,1253270016,PAR,Healthcare,Drug Manufacturers - General,France
+SAP,SAP SE,1166499968,NYQ,Technology,Software - Application,Germany
+VOW3.DE,Volkswagen AG,206204992,GER,Consumer Cyclical,Auto Manufacturers,Germany
+SIE.DE,Siemens Aktiengesellschaft,789920000,GER,Industrials,Specialty Industrial Machinery,Germany
+ALV.DE,Allianz SE,391459008,GER,Financial Services,Insurance - Diversified,Germany
+HSBC,HSBC Holdings plc,3688179968,NYQ,Financial Services,Banks - Diversified,United Kingdom
+GSK,GSK plc,2039469952,NYQ,Healthcare,Drug Manufacturers - General,United Kingdom
+BP,BP p.l.c.,2739229952,NYQ,Energy,Oil & Gas Integrated,United Kingdom
+VOD,Vodafone Group Public Limited Company,2647569920,NMS,Communication Services,Telecom Services,United Kingdom
+TM,Toyota Motor Corporation,1346960000,NYQ,Consumer Cyclical,Auto Manufacturers,Japan
+SONY,Sony Group Corporation,1214050048,NYQ,Technology,Consumer Electronics,Japan
+7974.T,"Nintendo Co., Ltd.",1164240000,JPX,Communication Services,Electronic Gaming & Multimedia,Japan
+6758.T,Sony Group Corporation,1214050048,JPX,Technology,Consumer Electronics,Japan
+RY.TO,Royal Bank of Canada,1415069952,TOR,Financial Services,Banks - Diversified,Canada
+TD.TO,The Toronto-Dominion Bank,1759299968,TOR,Financial Services,Banks - Diversified,Canada
+ENB.TO,Enbridge Inc.,2177420032,TOR,Energy,Oil & Gas Midstream,Canada
+CNR.TO,Canadian National Railway Company,629500032,TOR,Industrials,Railroads,Canada
+RELIANCE.NS,Reliance Industries Limited,6766230016,NSI,Energy,Oil & Gas Refining & Marketing,India
+TCS.NS,Tata Consultancy Services Limited,3618089984,NSI,Technology,Information Technology Services,India
+HDFCBANK.NS,HDFC Bank Limited,7619369984,NSI,Financial Services,Banks - Regional,India
+VALE3.SA,Vale S.A.,4269829888,SAO,Basic Materials,Other Industrial Metals & Mining,Brazil
+PETR4.SA,Petróleo Brasileiro S.A. - Petrobras,5446499840,SAO,Energy,Oil & Gas Integrated,Brazil
+ITUB4.SA,Itaú Unibanco Holding S.A.,4834160128,SAO,Financial Services,Banks - Regional,Brazil
+NESN.SW,Nestlé S.A.,2571310080,EBS,Consumer Defensive,Packaged Foods,Switzerland
+ROG.SW,Roche Holding AG,690097984,EBS,Healthcare,Drug Manufacturers - General,Switzerland
+NOVN.SW,Novartis AG,2024579968,EBS,Healthcare,Drug Manufacturers - General,Switzerland
+ASX.AX,ASX Limited,193888000,ASX,Financial Services,Financial Data & Stock Exchanges,Australia
+BHP.AX,BHP Group Limited,5071529984,ASX,Basic Materials,Other Industrial Metals & Mining,Australia
+NAB.AX,National Australia Bank Limited,3086850048,ASX,Financial Services,Banks - Diversified,Australia
+7203.T,Toyota Motor Corporation,13469599744,JPX,Consumer Cyclical,Auto Manufacturers,Japan
+9984.T,SoftBank Group Corp.,1465929984,JPX,Communication Services,Telecom Services,Japan
+9433.T,KDDI Corporation,2026089984,JPX,Communication Services,Telecom Services,Japan
